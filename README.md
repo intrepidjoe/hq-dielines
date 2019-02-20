@@ -1,3 +1,5 @@
+<img src="https://www.hqpackaging.com/products/skin/frontend/default/hqpackaging/images/logo.png" alt="HQ Packaging logo">
+
 ## Welcome to: HQ Packaging - Dielines
 
 This is a work-in-progress, and eventually will be transferred to the GitHub account of [HQ Packaging](https://hqpackaging.com) once we have determined the most helpful way to present this information in order to facilitate as straightforward an artwork process for custom printed mylar bags as is possible. It is public in this "pre-alpha" stage because even without polish applied, some customers have already found the content to be helpful. If you have any suggestions for how we can better configure this to be useful, please feel free to send me a message via [email](mailto:joeholden@hqpackaging.com).
@@ -24,9 +26,9 @@ This collection of templates/dielines is intended to make the gross sizing and l
 
 Sometimes too much flexibility can lead to anxiety and uncertainty as to the soundness of the underlying foundation of the design - if you start out with one of these templates, you will at least have the assurance that the setup is fundamentally correct.
 
+<hr>
 
-
-	This page will be updated and changed, often and without warning, as we build out the knowledge-base and try to make it increasingly useful -- please bear with us as these changes occur. While not everything here is explicitely licensed, the intent is to make it "Free, as in freedom".
+This page will be updated and changed, often and without warning, as we build out the knowledge-base and try to make it increasingly useful -- please bear with us as these changes occur. While not everything here is explicitely licensed, the intent is to make it "Free, as in freedom".
 
 
 
