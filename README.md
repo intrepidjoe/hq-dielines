@@ -1,4 +1,4 @@
-<img src="https://www.hqpackaging.com/products/skin/frontend/default/hqpackaging/images/logo.png" alt="HQ Packaging logo">
+<img src="https://www.hqpackaging.com/wp-content/uploads/2020/02/cropped-hq-square-logo-300x300.jpg" alt="HQ Packaging logo">
 
 ## Welcome to: HQ Packaging - Dielines
 
